@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./components/Home";
 import Blog from "./components/Blog";
 import Update from "./components/Update";
@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Navbar />}>
           <Route index element={<Home />} />
@@ -18,6 +18,6 @@ export default function App() {
           <Route path="Music" element={<Music />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
