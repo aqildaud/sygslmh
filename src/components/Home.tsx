@@ -3,10 +3,10 @@ function Home() {
     <div>
       <main className="pt-3">
         <p className="text-white">
-          salmah. This website is just for documentation.
+          salmah. this website is just for documentation.
         </p>
         <p className="text-white">
-          unemployed :) - currently learning Javascript from basic on{" "}
+          unemployed :) - currently learning Javascript on{" "}
           <a href="https://www.theodinproject.com/paths/full-stack-javascript">
             The Odin Project
           </a>
