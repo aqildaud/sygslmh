@@ -3,7 +3,7 @@ function Home() {
     <div>
       <main className="pt-3">
         <p className="text-white">
-          salmah. this website is just for documentation.
+          salmah. this website is just for documentation which is why it is not fancy.
         </p>
         <p className="text-white">
           unemployed :) - currently on my to get cracked.
