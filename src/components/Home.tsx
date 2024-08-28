@@ -6,11 +6,11 @@ function Home() {
           salmah. this website is just for documentation.
         </p>
         <p className="text-white">
-          unemployed :) - currently learning Javascript on{" "}
-          <a href="https://www.theodinproject.com/paths/full-stack-javascript">
+          unemployed :) - currently on my to get cracked.
+          {/* <a href="https://www.theodinproject.com/paths/full-stack-javascript">
             The Odin Project
           </a>
-          .
+          . */}
         </p>
         <p className="text-white">if you wanna get in touch...</p>
         <blockquote className="pt-3">
