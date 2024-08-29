@@ -6,7 +6,7 @@ function Home() {
           salmah. this website is just for documentation which is why it is not fancy.
         </p>
         <p className="text-white">
-          unemployed :) - currently on my to get cracked.
+          unemployed :) - currently on my way to get cracked.
           {/* <a href="https://www.theodinproject.com/paths/full-stack-javascript">
             The Odin Project
           </a>
