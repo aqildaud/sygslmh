@@ -31,6 +31,6 @@ body {
   margin: 0 auto;
   padding: 20px;
   display: flex;
-  max-width: 720px;
+  max-width: 576px;
   background-color: #242424;
 }
