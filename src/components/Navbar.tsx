@@ -22,6 +22,9 @@ function Navbar() {
               <Link className="p-2" to="/Music">
                 Music Recommendation
               </Link>
+              {/* <Link className="p-2" to="/ArticleEditor">
+                Add Blog
+              </Link> */}
             </div>
           </div>
         </nav>

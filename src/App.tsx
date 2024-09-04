@@ -5,6 +5,8 @@ import Update from "./components/Update";
 import About from "./components/About";
 import Music from "./components/Music";
 import Navbar from "./components/Navbar";
+import Article from "./components/Article";
+// import ArticleEditor from "./components/ArticleEditor";
 
 export default function App() {
   return (
@@ -16,6 +18,8 @@ export default function App() {
           <Route path="Update" element={<Update />} />
           <Route path="About" element={<About />} />
           <Route path="Music" element={<Music />} />
+          <Route path="Article" element={<Article />} />
+          {/* <Route path="ArticleEditor" element={<ArticleEditor />} /> */}
         </Route>
       </Routes>
     </HashRouter>
