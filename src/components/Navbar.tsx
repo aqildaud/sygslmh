@@ -13,7 +13,7 @@ function Navbar() {
               <Link className="p-2" to="/Blog">
                 Blog
               </Link>
-              <Link className="p-2" to="/Update">
+              {/* <Link className="p-2" to="/Update">
                 Updates
               </Link>
               <Link className="p-2" to="/About">
@@ -21,7 +21,7 @@ function Navbar() {
               </Link>
               <Link className="p-2" to="/Music">
                 Music Recommendation
-              </Link>
+              </Link> */}
               {/* <Link className="p-2" to="/ArticleEditor">
                 Add Blog
               </Link> */}
