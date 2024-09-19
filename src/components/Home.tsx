@@ -2,11 +2,11 @@ function Home() {
   return (
     <div>
       <main className="pt-3">
-        <p className="text-white">
+        <p>
           salmah. i love my friends.
         </p>
-        <p className="text-white">
-          unemployed 😮‍💨
+        <p>
+          unemployed😮‍💨
           {/* <a href="https://www.theodinproject.com/paths/full-stack-javascript">
             The Odin Project
           </a>

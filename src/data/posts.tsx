@@ -8,7 +8,7 @@ export let posts: Post[] = [];
 let obj = {
   title: "On Relationship At Workplace",
   content: `
-      <p>Since I started working in July 2023, I feel like I've been doing pretty well as a fresher. One thing that's helped is making sure I'm comfortable enough to chat with people.</p>
+    <p>Since I started working in July 2023, I feel like I've been doing pretty well as a fresher. One thing that's helped is making sure I'm comfortable enough to chat with people.</p>
   
     <p>You often see posts on social media saying you don't need to bond with your coworkers—just show up, do your job, and leave when the day is done. I disagree with that. Unless you're exceptionally good at your work, everyone needs a little help now and then, especially as a fresher. And that help tends to come more easily when you've established some sort of connection with your colleagues.</p>
   
